@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homework-3-rendering-cards-using-props/static/css/main.577d0c70.css",
+    "main.js": "/homework-3-rendering-cards-using-props/static/js/main.f0752e23.js",
+    "static/js/787.eb0d04db.chunk.js": "/homework-3-rendering-cards-using-props/static/js/787.eb0d04db.chunk.js",
+    "index.html": "/homework-3-rendering-cards-using-props/index.html",
+    "main.577d0c70.css.map": "/homework-3-rendering-cards-using-props/static/css/main.577d0c70.css.map",
+    "main.f0752e23.js.map": "/homework-3-rendering-cards-using-props/static/js/main.f0752e23.js.map",
+    "787.eb0d04db.chunk.js.map": "/homework-3-rendering-cards-using-props/static/js/787.eb0d04db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.577d0c70.css",
+    "static/js/main.f0752e23.js"
+  ]
+}
